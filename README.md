@@ -27,7 +27,7 @@ Values shown is the confidence level of different classes in percentage
 10. [Additional Information](https://github.com/xian-cong/Deep-Learning-Acne-Classification#additional-information)
 
 ## Dataset
-250 HD images is being hand-picked for each classes from various internet sources. 
+250 HD images were being hand-picked for each classes from various internet sources. 
 <h4 align="center"> <img src="https://user-images.githubusercontent.com/22144223/149659973-5242ca18-e52c-491f-aabc-f1773b39cb21.png" width="500"> </br>
 
 ## Annotation

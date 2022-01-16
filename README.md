@@ -14,15 +14,27 @@ and **provide different solutions** for user to cure the acne issue as shown bel
 <h4 align="center"> <img src="https://user-images.githubusercontent.com/22144223/149659429-15aa181f-be1a-4ae8-ad17-3caf8eed1432.png" width="500"> </br>
 Values shown is the confidence level of different classes in percentage
 
-### Dataset
+## Table of contents
+1. [Introduction]
+2. [Contents]
+3. [Dataset]
+4. [Annotation]
+5. [Data Preprocessing]
+6. [Running on IDE]
+7. [Running on Terminal]
+8. [Results of AI Model]
+9. [Future Improvements]
+10. [Additional Information]
+
+## Dataset
 250 HD images is being hand-picked for each classes from various internet sources. 
 <h4 align="center"> <img src="https://user-images.githubusercontent.com/22144223/149659973-5242ca18-e52c-491f-aabc-f1773b39cb21.png" width="500"> </br>
 
-### Annotation
+## Annotation
 Data annotation is being carried out by separating dataset into 4 classes.
 <h4 align="center"> <img src="https://user-images.githubusercontent.com/22144223/149660036-e69fb470-9e30-4249-9b83-6a678866c157.png" width="500"> </br>
 
-### Data Preprocessing
+## Data Preprocessing
 To increase the size of the dataset for training, data preprocessing is being carried out which includes:
 - Horizontal Flip
 - Vertical Flip
@@ -51,7 +63,7 @@ java -cp my-first-dl4j-project-1.0-SNAPSHOT-bin.jar ai.certifai.MyFirstDL4JProje
 ```
 MyFirstDL4JProject is the class to run which is located in ai.certifai package
 
-## Result of AI Model
+## Results of AI Model
 The AI Model from transfer learning is able to achieve up to 74% accuracy by training with only 250 HD images from each classes. 
 ### Training Result
 <h4 align="center"> <img src="https://github.com/xian-cong/Deep-Learning-Acne-Classification/blob/main/train%20cm.PNG" width="500"> </br>
@@ -60,12 +72,12 @@ The AI Model from transfer learning is able to achieve up to 74% accuracy by tra
 ### Validation Result
 <h4 align="center"> <img src="https://github.com/xian-cong/Deep-Learning-Acne-Classification/blob/main/validation%20cm.PNG" width="500"> </br>
 
-### Future Improvements
+## Future Improvements
 1. Platform to discuss skin care products
 2. Cross geographical skin samples
 3. Develop smartphone app
 4. More detailed classifier
 5. Higher Accuracy
 
-### Additional Information
+## Additional Information
 Additional information about this project can be read [here](https://xcdiary.wordpress.com/2021/01/16/applied-deep-learning-bootcamp-forward-school/).

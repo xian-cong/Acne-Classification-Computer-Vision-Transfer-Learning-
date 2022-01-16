@@ -1,5 +1,5 @@
 # Acne Classification with Deep Learning
-All fundamental DL4J dependencies are included in the [pom.xml](https://github.com/xian-cong/Deep-Learning-Acne-Classification/blob/main/my-first-dl4j-project/pom.xml).
+All fundamental DL4J dependencies are included in the [pom.xml](https://github.com/xian-cong/Deep-Learning-Acne-Classification/blob/main/my-first-dl4j-project/pom.xml). The following project is built by me and my friend, Liang Han Sheng. 
 
 ## Introduction
 Without a doubt, most of teenages face acne problem. However, there isn't a guideline on how serious the acne is and what proper steps should be taken in order to cure the acne and prevent scars. Hence, acne classification is developed using deep learning. It is carried out through transfer learning method using VGG-16 model in this project. It is able to **classify acne seriousness** into:
@@ -15,16 +15,16 @@ and **provide different solutions** for user to cure the acne issue as shown bel
 Values shown is the confidence level of different classes in percentage
 
 ## Table of contents
-1. [Introduction]
-2. [Contents]
-3. [Dataset]
-4. [Annotation]
-5. [Data Preprocessing]
-6. [Running on IDE]
-7. [Running on Terminal]
-8. [Results of AI Model]
-9. [Future Improvements]
-10. [Additional Information]
+1. [Introduction](https://github.com/xian-cong/Deep-Learning-Acne-Classification#introduction)
+2. [Contents](https://github.com/xian-cong/Deep-Learning-Acne-Classification#table-of-contents)
+3. [Dataset](https://github.com/xian-cong/Deep-Learning-Acne-Classification#dataset)
+4. [Annotation](https://github.com/xian-cong/Deep-Learning-Acne-Classification#annotation)
+5. [Data Preprocessing](https://github.com/xian-cong/Deep-Learning-Acne-Classification#data-preprocessing)
+6. [Running on IDE](https://github.com/xian-cong/Deep-Learning-Acne-Classification#to-run-on-ide)
+7. [Running on Terminal](https://github.com/xian-cong/Deep-Learning-Acne-Classification#to-run-from-command-line)
+8. [Results of AI Model](https://github.com/xian-cong/Deep-Learning-Acne-Classification#results-of-ai-model)
+9. [Future Improvements](https://github.com/xian-cong/Deep-Learning-Acne-Classification#future-improvements)
+10. [Additional Information](https://github.com/xian-cong/Deep-Learning-Acne-Classification#additional-information)
 
 ## Dataset
 250 HD images is being hand-picked for each classes from various internet sources. 
